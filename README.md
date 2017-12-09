@@ -1,3 +1,9 @@
+# DM109 - GearChanges 
+
+Added <code>GearChanges.java</code> and starter run-flink-gearchanges.sh.
+
+---
+---
 # Apache Flink and Apache Kafka
 
 This project is use a simple Flink job to show how to integrate Apache Kafka to Flink using the Flink Connector for Kafka.
